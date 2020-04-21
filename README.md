@@ -6,7 +6,7 @@
 
 Looking for a project to build my first Tableau Dashboard, of course I had the Covid-19 Dashboards in mind. Here is my small version:
 
-https://public.tableau.com/profile/henningheppner#!/vizhome/CovidMyDashboardHeppi/Dashboard1
+https://public.tableau.com/profile/henningheppner#!/vizhome/CovidMyDashboardHeppi/CovidDashboard?publish=yes
 
 > Data Preprocessing
 
