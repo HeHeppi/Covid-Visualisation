@@ -13,3 +13,6 @@ https://public.tableau.com/profile/henningheppner#!/vizhome/CovidMyDashboardHepp
 The data preprocessing was done in Python. The aim in Python was to build a pivot table, creating a time series perfectly prepared for tableau.
 See "Covid - DataFrame for Tableau"
 
+> Source
+
+https://github.com/CSSEGISandData/COVID-19 
