@@ -10,8 +10,10 @@ https://public.tableau.com/profile/henningheppner#!/vizhome/CovidMyDashboardHepp
 
 > Data Preprocessing
 
-The data preprocessing was done in Python. The aim in Python was to build a pivot table, creating a time series perfectly prepared for tableau.
+The data preprocessing was done in Python. The aim was to build a pivot table in Python, creating a time series perfectly prepared for Tableau.
+
 See "Covid - DataFrame for Tableau"
+
 In "Covid - Visualisation" I started to create some visualisations with MatPlotLib
 
 > Source
